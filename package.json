@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/picologic/spcheckout/issues"
   },
-  "homepage": "https://github.com/picologic/spcheckout#readme"
+  "homepage": "https://github.com/picologic/spcheckout#readme",
+  "dependencies": {
+    "sp-request": "^1.1.4"
+  }
 }
